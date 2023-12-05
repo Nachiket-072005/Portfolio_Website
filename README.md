@@ -1,7 +1,7 @@
 # Portfolio_Website
 Responsive Portfolio Website
 
-- ><a href="https://hustlewithnachiket.github.io/Portfolio_Website/dist/index.html">Live Demo</a>
+- ><a href="https://hustlewithnachiket.github.io/Portfolio_Website/public/dist/index.html">Live Demo</a>
 
 I have build a responsive website that will display images, links and description.
 This is my first portfolio project.
